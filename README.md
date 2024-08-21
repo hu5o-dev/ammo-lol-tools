@@ -1,4 +1,4 @@
-# 📄 Ammo lol tools README
+# 📄 ammo.lol API tools README
 
 Welcome to this project! Below, you'll find descriptions and usage instructions for three different Python scripts included in this repository. Each script has a specific purpose and can be used for various tasks, such as generating API keys, upscaling images, and fetching user data from an API.
 
