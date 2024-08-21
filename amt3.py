@@ -6,7 +6,7 @@ import os
 url = "https://ammo.lol/api/v1/public/user"
 headers = {
     "Content-Type": "application/json",
-    "API-Key": "2ffb1a72d594ecf09d0972e1ff7602af1e5c6b00"
+    "API-Key": "UR API"
 }
 
 uid = 1
